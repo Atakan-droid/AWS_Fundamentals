@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jdWA7xXThF4V1n4ppuqWvsOLeS8fVj8STgKNzBwS2o7vhb5O2JhhM3j6W+Gfrf44xXmbHs3V7U1q2x/M8sVbyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ataka\\RiderProjects\\AWSFundamentals\\SQSConsumer\\SQSConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ataka\\.nuget\\packages\\awssdk.core\\3.7.103.24\\awssdk.core.3.7.103.24.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\awssdk.sqs\\3.7.100.62\\awssdk.sqs.3.7.100.62.nupkg.sha512"
+  ],
+  "logs": []
+}

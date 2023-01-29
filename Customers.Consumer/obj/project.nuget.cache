@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "8HqqvjA3YPwlPmmtOhxNjYcbJr0J1x151jlrufCpxBNHoTfxUC0Vmgcg/GnFS//UZa3vUzT+I3MDqGgouLt0zA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ataka\\RiderProjects\\AWSFundamentals\\Customers.Consumer\\Customers.Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ataka\\.nuget\\packages\\awssdk.core\\3.7.103.24\\awssdk.core.3.7.103.24.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\awssdk.sqs\\3.7.100.62\\awssdk.sqs.3.7.100.62.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\mediator.abstractions\\2.0.30\\mediator.abstractions.2.0.30.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\mediator.net\\4.7.0\\mediator.net.4.7.0.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\mediator.net.microsoftdependencyinjection\\4.7.0\\mediator.net.microsoftdependencyinjection.4.7.0.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.1.1\\microsoft.extensions.dependencyinjection.2.1.1.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\system.interactive.async\\6.0.1\\system.interactive.async.6.0.1.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\system.linq.async\\6.0.1\\system.linq.async.6.0.1.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
