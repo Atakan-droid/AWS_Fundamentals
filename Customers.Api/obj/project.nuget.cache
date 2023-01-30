@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HTTPDS+7QJGdbULGXILDspDBFJCYBZhF0m7XpkAqdmEGKlDNY8U709rBXsVMnnFEDb6thgHnjLsqW+t1c6t0ug==",
+  "dgSpecHash": "jEAx/Uh8ZDx4EB22sjo1ysecg/4qcsJISqla2okep67+jmRN31WLggA41/9mf9trlMIFr+xAIvSI+qqqumUXMQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ataka\\RiderProjects\\AWSFundamentals\\Customers.Api\\Customers.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ataka\\.nuget\\packages\\awssdk.core\\3.7.103.24\\awssdk.core.3.7.103.24.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\awssdk.simplenotificationservice\\3.7.100.63\\awssdk.simplenotificationservice.3.7.100.63.nupkg.sha512",
     "C:\\Users\\ataka\\.nuget\\packages\\awssdk.sqs\\3.7.100.62\\awssdk.sqs.3.7.100.62.nupkg.sha512",
     "C:\\Users\\ataka\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\ataka\\.nuget\\packages\\fluentvalidation\\11.0.1\\fluentvalidation.11.0.1.nupkg.sha512",

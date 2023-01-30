@@ -63,3 +63,4 @@ C:\Users\ataka\RiderProjects\AWSFundamentals\Customers.Api\obj\Debug\net7.0\Cust
 C:\Users\ataka\RiderProjects\AWSFundamentals\Customers.Api\obj\Debug\net7.0\ref\Customers.Api.dll
 C:\Users\ataka\RiderProjects\AWSFundamentals\Customers.Api\bin\Debug\net7.0\AWSSDK.Core.dll
 C:\Users\ataka\RiderProjects\AWSFundamentals\Customers.Api\bin\Debug\net7.0\AWSSDK.SQS.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\Customers.Api\bin\Debug\net7.0\AWSSDK.SimpleNotificationService.dll

@@ -9,6 +9,7 @@
       "Customers.Api/1.0.0": {
         "dependencies": {
           "AWSSDK.SQS": "3.7.100.62",
+          "AWSSDK.SimpleNotificationService": "3.7.100.63",
           "Dapper": "2.0.123",
           "FluentValidation.AspNetCore": "11.0.1",
           "Microsoft.AspNetCore.OpenApi": "7.0.0",
@@ -24,6 +25,17 @@
           "lib/netcoreapp3.1/AWSSDK.Core.dll": {
             "assemblyVersion": "3.3.0.0",
             "fileVersion": "3.7.103.24"
+          }
+        }
+      },
+      "AWSSDK.SimpleNotificationService/3.7.100.63": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.103.24"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.SimpleNotificationService.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.100.63"
           }
         }
       },
@@ -317,6 +329,13 @@
       "sha512": "sha512-1Ft8nbvxsqWgY3yTyVaovdc0yYQe1QPVLjbgdcmdpebQ8SeKDnhvAKCo3FdVdO4UPxcNW2BDN9cJx3bu3qZbtw==",
       "path": "awssdk.core/3.7.103.24",
       "hashPath": "awssdk.core.3.7.103.24.nupkg.sha512"
+    },
+    "AWSSDK.SimpleNotificationService/3.7.100.63": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PSB7wPpmWqE6RudRZR3fGYLydw/RRAZjXaXTNPW4/q4lmsgJOHa4Ubvj8nvjyy1wAqtTAK9uMhLTWDSzztB70w==",
+      "path": "awssdk.simplenotificationservice/3.7.100.63",
+      "hashPath": "awssdk.simplenotificationservice.3.7.100.63.nupkg.sha512"
     },
     "AWSSDK.SQS/3.7.100.62": {
       "type": "package",
