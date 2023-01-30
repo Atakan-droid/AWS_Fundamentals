@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[3.7.100.62, )"
             },
+            "AWSSDK.SimpleNotificationService": {
+              "target": "Package",
+              "version": "[3.7.100.63, )"
+            },
             "Dapper": {
               "target": "Package",
               "version": "[2.0.123, )"

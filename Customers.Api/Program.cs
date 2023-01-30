@@ -35,6 +35,7 @@ builder.Services.AddSingleton<DatabaseInitializer>();
 
 builder.Services.Configure<QueueSettings>(builder.Configuration.GetSection(QueueSettings.Key));
 builder.Services.AddSingleton<IAmazonSQS, AmazonSQSClient>();
+builder.Services.AddSingleton<ISnsMessanger, SnsMessanger>();
 builder.Services.AddSingleton<ISqsMessenger, SqsMessenger>();
 
 builder.Services.AddSingleton<ICustomerRepository, CustomerRepository>();

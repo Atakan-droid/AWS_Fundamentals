@@ -15,6 +15,22 @@
           }
         }
       },
+      "AWSSDK.SimpleNotificationService/3.7.100.63": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.7.103.24, 4.0.0)"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/AWSSDK.SimpleNotificationService.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.SimpleNotificationService.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "AWSSDK.SQS/3.7.100.62": {
         "type": "package",
         "dependencies": {
@@ -416,6 +432,33 @@
         "lib/netstandard2.0/AWSSDK.Core.pdb",
         "lib/netstandard2.0/AWSSDK.Core.xml",
         "tools/account-management.ps1"
+      ]
+    },
+    "AWSSDK.SimpleNotificationService/3.7.100.63": {
+      "sha512": "PSB7wPpmWqE6RudRZR3fGYLydw/RRAZjXaXTNPW4/q4lmsgJOHa4Ubvj8nvjyy1wAqtTAK9uMhLTWDSzztB70w==",
+      "type": "package",
+      "path": "awssdk.simplenotificationservice/3.7.100.63",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/AWSSDK.SimpleNotificationService.CodeAnalysis.dll",
+        "awssdk.simplenotificationservice.3.7.100.63.nupkg.sha512",
+        "awssdk.simplenotificationservice.nuspec",
+        "lib/net35/AWSSDK.SimpleNotificationService.dll",
+        "lib/net35/AWSSDK.SimpleNotificationService.pdb",
+        "lib/net35/AWSSDK.SimpleNotificationService.xml",
+        "lib/net45/AWSSDK.SimpleNotificationService.dll",
+        "lib/net45/AWSSDK.SimpleNotificationService.pdb",
+        "lib/net45/AWSSDK.SimpleNotificationService.xml",
+        "lib/netcoreapp3.1/AWSSDK.SimpleNotificationService.dll",
+        "lib/netcoreapp3.1/AWSSDK.SimpleNotificationService.pdb",
+        "lib/netcoreapp3.1/AWSSDK.SimpleNotificationService.xml",
+        "lib/netstandard2.0/AWSSDK.SimpleNotificationService.dll",
+        "lib/netstandard2.0/AWSSDK.SimpleNotificationService.pdb",
+        "lib/netstandard2.0/AWSSDK.SimpleNotificationService.xml",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
       ]
     },
     "AWSSDK.SQS/3.7.100.62": {
@@ -1017,6 +1060,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "AWSSDK.SQS >= 3.7.100.62",
+      "AWSSDK.SimpleNotificationService >= 3.7.100.63",
       "Dapper >= 2.0.123",
       "FluentValidation.AspNetCore >= 11.0.1",
       "Microsoft.AspNetCore.OpenApi >= 7.0.0",
@@ -1071,6 +1115,10 @@
           "AWSSDK.SQS": {
             "target": "Package",
             "version": "[3.7.100.62, )"
+          },
+          "AWSSDK.SimpleNotificationService": {
+            "target": "Package",
+            "version": "[3.7.100.63, )"
           },
           "Dapper": {
             "target": "Package",
