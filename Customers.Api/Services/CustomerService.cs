@@ -89,6 +89,12 @@ public class CustomerService : ICustomerService
         return response;
     }
 
+    public async Task<Customer?> GetByEmailAsync(string email)
+    {
+        var customerDto = await _customerRepository.GetByEmailAsync(email);
+        return customerDto?.ToDomain();
+    }
+
     private static ValidationFailure[] GenerateValidationError(string paramName, string message)
     {
         return new[]

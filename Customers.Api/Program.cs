@@ -1,3 +1,4 @@
+using Amazon.DynamoDBv2;
 using Amazon.SQS;
 using Customers.Api.Database;
 using Customers.Api.Messaging;
@@ -37,6 +38,7 @@ builder.Services.Configure<QueueSettings>(builder.Configuration.GetSection(Queue
 builder.Services.AddSingleton<IAmazonSQS, AmazonSQSClient>();
 builder.Services.AddSingleton<ISnsMessanger, SnsMessanger>();
 builder.Services.AddSingleton<ISqsMessenger, SqsMessenger>();
+builder.Services.AddSingleton<IAmazonDynamoDB, AmazonDynamoDBClient>();
 
 builder.Services.AddSingleton<ICustomerRepository, CustomerRepository>();
 builder.Services.AddSingleton<ICustomerService, CustomerService>();

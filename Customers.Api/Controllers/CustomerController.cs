@@ -40,7 +40,23 @@ public class CustomerController : ControllerBase
         var customerResponse = customer.ToCustomerResponse();
         return Ok(customerResponse);
     }
-    
+
+    [HttpGet("customers/{idOrEmail}")]
+    public async Task<IActionResult> Get([FromRoute] string idOrEmail)
+    {
+        var isGuid = Guid.TryParse(idOrEmail, out var id);
+
+        var customer = isGuid ? await _customerService.GetAsync(id) : await _customerService.GetByEmailAsync(idOrEmail);
+
+        if (customer is null)
+        {
+            return NotFound();
+        }
+
+        var customerResponse = customer.ToCustomerResponse();
+        return Ok(customerResponse);
+    }
+
     [HttpGet("customers")]
     public async Task<IActionResult> GetAll()
     {
@@ -48,7 +64,7 @@ public class CustomerController : ControllerBase
         var customersResponse = customers.ToCustomersResponse();
         return Ok(customersResponse);
     }
-    
+
     [HttpPut("customers/{id:guid}")]
     public async Task<IActionResult> Update(
         [FromMultiSource] UpdateCustomerRequest request)
@@ -66,7 +82,7 @@ public class CustomerController : ControllerBase
         var customerResponse = customer.ToCustomerResponse();
         return Ok(customerResponse);
     }
-    
+
     [HttpDelete("customers/{id:guid}")]
     public async Task<IActionResult> Delete([FromRoute] Guid id)
     {
