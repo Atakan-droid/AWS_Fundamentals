@@ -7,6 +7,7 @@ public interface ICustomerRepository
     Task<bool> CreateAsync(CustomerDto customer);
 
     Task<CustomerDto?> GetAsync(Guid id);
+    Task<CustomerDto?> GetByEmailAsync(string email);
 
     Task<IEnumerable<CustomerDto>> GetAllAsync();
 

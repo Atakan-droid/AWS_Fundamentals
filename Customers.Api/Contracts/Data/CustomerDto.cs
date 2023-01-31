@@ -1,8 +1,12 @@
-﻿namespace Customers.Api.Contracts.Data;
+﻿using System.Text.Json.Serialization;
+
+namespace Customers.Api.Contracts.Data;
 
 public class CustomerDto
 {
-    public Guid Id { get; init; } = default!;
+    [JsonPropertyName("pk")] public string Pk => Id.ToString();
+    [JsonPropertyName("sk")] public string Sk => Id.ToString();
+    public Guid Id { get; init; }
 
     public string GitHubUsername { get; init; } = default!;
 
@@ -11,4 +15,5 @@ public class CustomerDto
     public string Email { get; init; } = default!;
 
     public DateTime DateOfBirth { get; init; }
+    public DateTime UpdatedAt { get; set; }
 }
