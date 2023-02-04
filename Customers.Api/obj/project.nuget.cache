@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/iF6JfzDhH1kWI4ba7x3ccon8GXaI9Sm4CQek+Gh5KUTJ9s6RIYC95mEZ2rZUL7Wwx7AyvWhG/BcGbco8EqHQw==",
+  "dgSpecHash": "VzDpys4M56ERxed8NhhUtlWtqhU1/RB30iCzl8S3daL3uRKZ0C61e2qFmnh67J98XkBnkjSgu+JMB4K9dtl7WQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ataka\\RiderProjects\\AWSFundamentals\\Customers.Api\\Customers.Api.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ataka\\.nuget\\packages\\awssdk.core\\3.7.103.24\\awssdk.core.3.7.103.24.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\awssdk.core\\3.7.104.2\\awssdk.core.3.7.104.2.nupkg.sha512",
     "C:\\Users\\ataka\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.101.33\\awssdk.dynamodbv2.3.7.101.33.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\awssdk.s3\\3.7.103.2\\awssdk.s3.3.7.103.2.nupkg.sha512",
     "C:\\Users\\ataka\\.nuget\\packages\\awssdk.simplenotificationservice\\3.7.100.63\\awssdk.simplenotificationservice.3.7.100.63.nupkg.sha512",
     "C:\\Users\\ataka\\.nuget\\packages\\awssdk.sqs\\3.7.100.62\\awssdk.sqs.3.7.100.62.nupkg.sha512",
     "C:\\Users\\ataka\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
