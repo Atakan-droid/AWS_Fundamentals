@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[3.7.101.33, )"
             },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.103.2, )"
+            },
             "AWSSDK.SQS": {
               "target": "Package",
               "version": "[3.7.100.62, )"
