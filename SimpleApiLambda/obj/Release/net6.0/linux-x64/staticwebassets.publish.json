@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GycFTwIC3wkOXTxQbgD0RFBAcQ0MU28gTv+t0Nt+ZkU=",
+  "Source": "SimpleApiLambda",
+  "BasePath": "_content/SimpleApiLambda",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

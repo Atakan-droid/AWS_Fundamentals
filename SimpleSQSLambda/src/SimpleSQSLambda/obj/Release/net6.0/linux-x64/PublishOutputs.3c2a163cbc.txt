@@ -1,0 +1,7 @@
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleSQSLambda\src\SimpleSQSLambda\bin\Release\net6.0\publish\SimpleSQSLambda.deps.json
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleSQSLambda\src\SimpleSQSLambda\bin\Release\net6.0\publish\SimpleSQSLambda.runtimeconfig.json
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleSQSLambda\src\SimpleSQSLambda\bin\Release\net6.0\publish\SimpleSQSLambda.pdb
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleSQSLambda\src\SimpleSQSLambda\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleSQSLambda\src\SimpleSQSLambda\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleSQSLambda\src\SimpleSQSLambda\bin\Release\net6.0\publish\Amazon.Lambda.SQSEvents.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleSQSLambda\src\SimpleSQSLambda\bin\Release\net6.0\publish\SimpleSQSLambda.dll

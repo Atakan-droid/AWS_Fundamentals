@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Se829DCWJ5txiCj/JL2Enx5b66Uae5985TirO+batveVCU5N76S/j1WbdAT2CLPOdbJCrcw/FdG5A3eFB0nCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ataka\\RiderProjects\\AWSFundamentals\\SimpleHttpLambda\\src\\SimpleHttpLambda\\SimpleHttpLambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ataka\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.5.0\\amazon.lambda.apigatewayevents.2.5.0.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.13\\microsoft.netcore.app.crossgen2.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

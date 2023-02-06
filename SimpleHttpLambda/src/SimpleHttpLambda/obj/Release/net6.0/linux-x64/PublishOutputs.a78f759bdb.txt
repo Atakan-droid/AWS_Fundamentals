@@ -1,0 +1,7 @@
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleHttpLambda\src\SimpleHttpLambda\bin\Release\net6.0\publish\SimpleHttpLambda.deps.json
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleHttpLambda\src\SimpleHttpLambda\bin\Release\net6.0\publish\SimpleHttpLambda.runtimeconfig.json
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleHttpLambda\src\SimpleHttpLambda\bin\Release\net6.0\publish\SimpleHttpLambda.pdb
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleHttpLambda\src\SimpleHttpLambda\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleHttpLambda\src\SimpleHttpLambda\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleHttpLambda\src\SimpleHttpLambda\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleHttpLambda\src\SimpleHttpLambda\bin\Release\net6.0\publish\SimpleHttpLambda.dll

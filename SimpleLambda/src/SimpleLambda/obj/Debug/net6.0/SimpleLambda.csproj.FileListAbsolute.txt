@@ -1,0 +1,17 @@
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\bin\Debug\net6.0\SimpleLambda.deps.json
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\bin\Debug\net6.0\SimpleLambda.runtimeconfig.json
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\bin\Debug\net6.0\SimpleLambda.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\bin\Debug\net6.0\SimpleLambda.pdb
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Debug\net6.0\SimpleLambda.csproj.AssemblyReference.cache
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Debug\net6.0\SimpleLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Debug\net6.0\SimpleLambda.AssemblyInfoInputs.cache
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Debug\net6.0\SimpleLambda.AssemblyInfo.cs
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Debug\net6.0\SimpleLambda.csproj.CoreCompileInputs.cache
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Debug\net6.0\SimpleLambda.csproj.CopyComplete
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Debug\net6.0\SimpleLambda.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Debug\net6.0\refint\SimpleLambda.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Debug\net6.0\SimpleLambda.pdb
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Debug\net6.0\SimpleLambda.genruntimeconfig.cache
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Debug\net6.0\ref\SimpleLambda.dll

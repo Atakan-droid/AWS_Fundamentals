@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qNbWdzN+c1k8UHM9Gu6f9tBNsTrcFUxxryA7nRSfA8Y=",
+  "Source": "SecretManagement.API",
+  "BasePath": "_content/SecretManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,7 @@
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleSNSFunction\src\SimpleSNSFunction\bin\Release\net6.0\publish\SimpleSNSFunction.deps.json
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleSNSFunction\src\SimpleSNSFunction\bin\Release\net6.0\publish\SimpleSNSFunction.runtimeconfig.json
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleSNSFunction\src\SimpleSNSFunction\bin\Release\net6.0\publish\SimpleSNSFunction.pdb
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleSNSFunction\src\SimpleSNSFunction\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleSNSFunction\src\SimpleSNSFunction\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleSNSFunction\src\SimpleSNSFunction\bin\Release\net6.0\publish\Amazon.Lambda.SNSEvents.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleSNSFunction\src\SimpleSNSFunction\bin\Release\net6.0\publish\SimpleSNSFunction.dll

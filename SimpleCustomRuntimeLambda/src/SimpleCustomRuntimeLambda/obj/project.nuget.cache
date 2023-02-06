@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "RHc9AIZ961VI/oqhQXwFt9VU0Qy9MM63QUHDirE2V1PEgy8czhrSZrTYkl9nKmenvgC11KdIYMwu0jVAJ/wLNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ataka\\RiderProjects\\AWSFundamentals\\SimpleCustomRuntimeLambda\\src\\SimpleCustomRuntimeLambda\\SimpleCustomRuntimeLambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ataka\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\amazon.lambda.runtimesupport\\1.8.2\\amazon.lambda.runtimesupport.1.8.2.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.2\\microsoft.netcore.app.runtime.win-x64.7.0.2.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.2.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.2\\microsoft.aspnetcore.app.runtime.win-x64.7.0.2.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\7.0.2\\microsoft.netcore.app.crossgen2.win-x64.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

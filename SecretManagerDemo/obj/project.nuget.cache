@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ancVpMrRhXXT2s1hb+hlgMgxvfkknRkauaFoVtp1NZOVjpSqcIrzgIqsx2scePib/BnWODpfZ1or1ChFosfXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ataka\\RiderProjects\\AWSFundamentals\\SecretManagerDemo\\SecretManagerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ataka\\.nuget\\packages\\awssdk.core\\3.7.104.2\\awssdk.core.3.7.104.2.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\awssdk.secretsmanager\\3.7.101.22\\awssdk.secretsmanager.3.7.101.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\bin\Release\net6.0\linux-x64\SimpleLambda.deps.json
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\bin\Release\net6.0\linux-x64\SimpleLambda.runtimeconfig.json
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\bin\Release\net6.0\linux-x64\SimpleLambda.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\bin\Release\net6.0\linux-x64\SimpleLambda.pdb
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\bin\Release\net6.0\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Release\net6.0\linux-x64\SimpleLambda.csproj.AssemblyReference.cache
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Release\net6.0\linux-x64\SimpleLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Release\net6.0\linux-x64\SimpleLambda.AssemblyInfoInputs.cache
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Release\net6.0\linux-x64\SimpleLambda.AssemblyInfo.cs
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Release\net6.0\linux-x64\SimpleLambda.csproj.CoreCompileInputs.cache
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Release\net6.0\linux-x64\SimpleLambda.csproj.CopyComplete
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Release\net6.0\linux-x64\SimpleLambda.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Release\net6.0\linux-x64\refint\SimpleLambda.dll
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Release\net6.0\linux-x64\SimpleLambda.pdb
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Release\net6.0\linux-x64\SimpleLambda.genruntimeconfig.cache
+C:\Users\ataka\RiderProjects\AWSFundamentals\SimpleLambda\src\SimpleLambda\obj\Release\net6.0\linux-x64\ref\SimpleLambda.dll
