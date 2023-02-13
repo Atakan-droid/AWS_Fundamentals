@@ -12,16 +12,16 @@ public class QueueConsumerService : BackgroundService
 {
     private IAmazonSQS _sqs;
     private IOptions<QueueSettings> _queueSettings;
-    private IMediator _mediator;
+    private IServiceScopeFactory _scope;
     private ILogger<QueueConsumerService> _logger;
 
-    public QueueConsumerService(IAmazonSQS sqs, IOptions<QueueSettings> queueSettings, IMediator mediator,
-        ILogger<QueueConsumerService> logger)
+    public QueueConsumerService(IAmazonSQS sqs, IOptions<QueueSettings> queueSettings,
+        ILogger<QueueConsumerService> logger, IServiceScopeFactory scope)
     {
         _sqs = sqs;
         _queueSettings = queueSettings;
-        _mediator = mediator;
         _logger = logger;
+        _scope = scope;
     }
 
     protected override async Task ExecuteAsync(CancellationToken stoppingToken)
@@ -33,7 +33,7 @@ public class QueueConsumerService : BackgroundService
             QueueUrl = queueUrlResponse.QueueUrl,
             AttributeNames = new List<string>() { "All" },
             MessageAttributeNames = new List<string>() { "All" },
-            MaxNumberOfMessages = 1
+            MaxNumberOfMessages = 10
         };
 
         while (!stoppingToken.IsCancellationRequested)
@@ -53,7 +53,9 @@ public class QueueConsumerService : BackgroundService
                 object typedMessage = (ISqsMessage)JsonSerializer.Deserialize(message.Body, type)!;
                 try
                 {
-                    await _mediator.Send(typedMessage!, stoppingToken);
+                    using var scope = _scope.CreateScope();
+                    var mediator = scope.ServiceProvider.GetRequiredService<IMediator>();
+                    await mediator.Send(typedMessage, stoppingToken);
                 }
                 catch (Exception e)
                 {
